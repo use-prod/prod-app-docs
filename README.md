@@ -285,16 +285,3 @@ const result = await enhanceGoalWithCulturalInsights({
 
 // Result includes culturally-aligned venues, content, tools, and communities
 ```
-
-## 📞 Contact & Demo
-
-**Live Demo**: [Available upon request]
-**Video Demo**: [3-minute walkthrough available]
-**Repository**: [This GitHub repo]
-
-**Team**: Built during Qloo LLM Hackathon 2025
-**Contact**: [Available for follow-up discussions]
-
----
-
-*This project demonstrates the future of AI-powered productivity: systems that understand not just what we want to achieve, but who we are culturally and what will genuinely motivate us to succeed.*
