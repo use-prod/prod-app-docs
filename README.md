@@ -2,6 +2,8 @@
 
 *🏆 Qloo LLM Hackathon Submission*
 
+##Note - This REPO is only the QLOO functionality. The Prod app is proprietary, and the ios, android, web and other functionality remains private repo
+
 ## 🎯 What We Built
 
 **CulturalGoals** transforms generic goal-setting into culturally-intelligent, personally meaningful experiences by integrating Qloo's Taste AI™ with advanced LLMs. Instead of creating one-size-fits-all productivity systems, we generate goals and project frameworks that align with users' cultural preferences, interests, and lifestyle choices.
